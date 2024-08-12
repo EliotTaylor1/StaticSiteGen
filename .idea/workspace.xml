@@ -4,37 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad48aef4-b54f-45e3-813f-deccf3a54edf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/lotr/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/skyrim/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/rivendell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/skyrim_landscape.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lotr/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/skyrim/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/copystatic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gencontent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/htmlnode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inline_markdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markdown_blocks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_htmlnode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_inline_markdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_markdown_blocks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/rivendell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/skyrim_landscape.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ad48aef4-b54f-45e3-813f-deccf3a54edf" name="Changes" comment="implement content generation from md files, styling, auto-start server and additional unit tests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test_textnode.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_textnode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/textnode.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/textnode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests.sh" beforeDir="false" afterPath="$PROJECT_DIR$/tests.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/skyrim/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/skyrim/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/skyrim_landscape.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,9 +117,20 @@
       <option name="presentableId" value="Default" />
       <updated>1723408688723</updated>
     </task>
+    <task id="LOCAL-00001" summary="implement content generation from md files, styling, auto-start server and additional unit tests">
+      <option name="closed" value="true" />
+      <created>1723493248447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723493248447</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="implement content generation from md files, styling, auto-start server and additional unit tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="implement content generation from md files, styling, auto-start server and additional unit tests" />
   </component>
 </project>
